@@ -1,4 +1,4 @@
-# C# Cloud Azure Day One
+# Java Cloud Azure Day One
 
 ## Learning Objectives
 
@@ -15,10 +15,10 @@
 
 ## Core Activity
 
-For this exercise you should get a a full stack web application working in Azure. You can create something simple and new or you may use an existing application, e.g. the cinema challenge and build a simple front end using technology you choose. You should build using the following approach:
+For this exercise you should get a full stack web application working in Azure. You can create something simple and new or you may use an existing application, e.g. the cinema challenge and build a simple front end using technology you choose. You should build using the following approach:
 
-- Back end API using C# and the `dotnet new webapi` template with at least 1 endpoint
-- Front end using either `React` or `Angular` which makes at least one call to the API endpoint.  You frontend repository should be pushed [here](https://github.com/boolean-uk/csharp-cloud-azure-day-1-frontend)
+- Back end API using Java and the Spring Boot Application starter package with at least 1 endpoint
+- Front end using either `React` or `Angular` which makes at least one call to the API endpoint.  Your frontend repository should be pushed [here](https://github.com/boolean-uk/java-cloud-azure-day-1-frontend)
 - Database using PostgresSQL hosted in Azure
 
 ## Extension Activity
