@@ -19,7 +19,7 @@ For this exercise you should get a full stack web application working in Azure. 
 
 - Back end API using Java and the Spring Boot Application starter package with at least 1 endpoint
 - Front end using either `React` or `Angular` which makes at least one call to the API endpoint.  Your frontend repository should be pushed [here](https://github.com/boolean-uk/java-cloud-azure-day-1-frontend)
-- Database using PostgresSQL hosted in Azure
+- Database using PostgresSQL hosted in Azure (you can start out using a Neon one and then convert it later)
 
 ## Extension Activity
 
