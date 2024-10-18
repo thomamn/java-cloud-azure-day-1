@@ -29,9 +29,10 @@ You are going to deploy a simple API to Azure. You can create something simple a
 
 ## Notes
 
-Step by step instructions for deploying a Spring App and Postgres database can be found here: [https://learn.microsoft.com/en-us/azure/spring-apps/enterprise/quickstart-deploy-restful-api-app?tabs=Azure-portal-maven-plugin-ent%2CAzure-portal-maven-plugin&pivots=sc-consumption-plan](https://learn.microsoft.com/en-us/azure/spring-apps/enterprise/quickstart-deploy-restful-api-app?pivots=sc-enterprise&tabs=Azure-portal-maven-plugin-ent%2CAzure-portal-maven-plugin) This makes extensive use of Maven so you may need to investigate using that as part of the process.
 
 A simpler deployment stategy using a JAR file is found here: [https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-launch-from-source](https://learn.microsoft.com/en-us/azure/spring-apps/basic-standard/how-to-launch-from-source) you will need to install the Azure CLI tool to make this happen.
+
+Step by step instructions for deploying a Spring App and Postgres database can be found here: [https://learn.microsoft.com/en-us/azure/spring-apps/enterprise/quickstart-deploy-restful-api-app?tabs=Azure-portal-maven-plugin-ent%2CAzure-portal-maven-plugin&pivots=sc-consumption-plan](https://learn.microsoft.com/en-us/azure/spring-apps/enterprise/quickstart-deploy-restful-api-app?pivots=sc-enterprise&tabs=Azure-portal-maven-plugin-ent%2CAzure-portal-maven-plugin) This makes extensive use of Maven so you may need to investigate using that as part of the process.
 
 Investigate each strategy using a very basic Spring App initially and then choose one to deploy your application.
 
